@@ -10,6 +10,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@radix-ui/react-popover": "1.0.6",
     "@remix-run/cloudflare": "^1.18.0",
     "@remix-run/cloudflare-pages": "^1.18.0",
     "@remix-run/css-bundle": "^1.18.1",
