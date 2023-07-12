@@ -1,6 +1,7 @@
 {
   "private": true,
   "sideEffects": false,
+  "name": "remix-vanilla-extract",
   "type": "module",
   "scripts": {
     "build": "remix build",
