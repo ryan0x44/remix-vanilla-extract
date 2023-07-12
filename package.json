@@ -23,6 +23,9 @@
     "@remix-run/eslint-config": "^1.18.0",
     "@types/react": "^18.0.35",
     "@types/react-dom": "^18.0.11",
+    "@vanilla-extract/css": "^1.12.0",
+    "@vanilla-extract/recipes": "^0.4.0",
+    "@vanilla-extract/sprinkles": "^1.6.1",
     "eslint": "^8.38.0",
     "typescript": "^5.0.4",
     "wrangler": "^3.1.1"
