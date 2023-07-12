@@ -1,5 +1,7 @@
 import type { V2_MetaFunction } from "@remix-run/cloudflare";
 
+import { Button } from "../components/button/index";
+
 export const meta: V2_MetaFunction = () => {
   return [
     { title: "New Remix App" },
@@ -10,7 +12,8 @@ export const meta: V2_MetaFunction = () => {
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>Welcome to Remix</h1>
+      <h1>Welcome to Remix!</h1>
+      <Button>Hello</Button>
       <ul>
         <li>
           <a
